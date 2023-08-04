@@ -1,9 +1,5 @@
 # Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection
 
-This is an official implementation of “Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection” with PyTorch, accepted by MICCAI 2023.
-
-[Paper Link](http://arxiv.org/abs/2308.01639)
-
 This repository contains the official PyTorch implementation of
 
 [**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection</a>**](http://arxiv.org/abs/2308.01639)
