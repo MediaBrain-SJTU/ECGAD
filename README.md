@@ -4,6 +4,14 @@ This is an official implementation of “Multi-scale Cross-restoration Framework
 
 [Paper Link](http://arxiv.org/abs/2308.01639)
 
+This repository contains the official PyTorch implementation of
+
+[**Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection</a>**](http://arxiv.org/abs/2308.01639)
+
+Aofan Jiang, [Chaoqin Huang](https://scholar.google.com/citations?user=BAZSE7wAAAAJ&hl=en), Qing Cao, Shuang Wu, Zi Zeng, Kang Chen, [Ya Zhang](https://scholar.google.com/citations?user=pbjw9sMAAAAJ&hl=en), and Yanfeng Wang
+
+Presented at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Early Accept)
+
 ```
 @inproceedings{jiang2022ecgad,
   title={Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection}
