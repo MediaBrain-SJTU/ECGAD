@@ -2,6 +2,17 @@
 
 This is an official implementation of “Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection” with PyTorch, accepted by MICCAI 2023.
 
+[Paper Link](http://arxiv.org/abs/2308.01639)
+
+```
+@inproceedings{jiang2022ecgad,
+  title={Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection}
+  author={Jiang, Aofan and Huang, Chaoqin and Cao, Qing and Wu, Shuang and Zeng, Zi and Chen, Kang and Zhang, Ya and Wang, Yanfeng},
+  booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+  year={2023}
+}
+```
+
 
 <center><img src="figures/pipeline.png "width="90%"></center>
 
