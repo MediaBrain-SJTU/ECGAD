@@ -2,7 +2,7 @@
 
 ## News
 
-We release the latest research paper: [**Self-supervised Anomaly Detection Pretraining Enhances Long-tail ECG Diagnosis**](http://arxiv.org/abs/2308.01639)
+We release the latest research paper: [**Self-supervised Anomaly Detection Pretraining Enhances Long-tail ECG Diagnosis**](https://arxiv.org/abs/2408.17154)
 
 Aofan Jiang, [Chaoqin Huang](https://scholar.google.com/citations?user=BAZSE7wAAAAJ&hl=en), Qing Cao, Yuchen Xu, Zi Zeng, Kang Chen, [Ya Zhang](https://scholar.google.com/citations?user=pbjw9sMAAAAJ&hl=en), and Yanfeng Wang
 
