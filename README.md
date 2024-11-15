@@ -101,7 +101,7 @@ python test.py --data_path ./data/ --load_model 1 --load_path ./ckpt/mymodel_new
 <div style="text-align: center;">
 <table>
 <tr><td></td> <td colspan="2">Detection (PTB-XL)</td> <td colspan="2">Localization (Benchmark)</td></tr>
-<tr><td>AUC (%)</td> <td>Paper</td> <td>Inplementation</td> <td>Paper</td> <td>Inplementation</td></tr>
+<tr><td>AUC (%)</td> <td>Paper</td> <td>Implementation</td> <td>Paper</td> <td>Implementation</td></tr>
 <tr height='21' style='mso-height-source:userset;height:16pt' id='r0'>
 <td height='21' class='x21' width='90' style='height:16pt;width:67.5pt;'>Ours</td>
 <td class='x23' width='90' style='width:67.5pt;'>86.0</td>
